@@ -31,7 +31,7 @@ named "python".
 
 
 /!\ IMPORTANT /!\
-To launch the project easyly you should import 
+To launch the project easily you should import 
 the collab notebooks in google collaboratory 
 website at : colab.research.google.com/ 
 and change the runtime mode to GPU.
