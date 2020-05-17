@@ -291,7 +291,7 @@ def evaluate(model, criterion, device, loader, n_batch = -1):
             total_pred  += len(y)
 
 def main():
-    epochs        = 8 #number of detabase iteration
+    epochs        = 8 #number of database iteration
     learning_rate = 1e-3 #sets the starting learning rate
     device = torch.device('cuda') #sets the device to the GPU
     model = SuperResolutionModel() #creates the neuronal network
