@@ -35,3 +35,9 @@ To launch the project easyly you should import
 the collab notebooks in google collaboratory 
 website at : colab.research.google.com/ 
 and change the runtime mode to GPU.
+
+
+
+
+
+By Pierre-Jean BESNARD and Louis BILLAUT
